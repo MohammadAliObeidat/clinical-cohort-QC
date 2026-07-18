@@ -1,0 +1,7 @@
+disease_status,age.Min.,age.1st.Qu.,age.Median,age.Mean,age.3rd.Qu.,age.Max.
+case,16,21.75,43,43.95,69,77
+Case,23,32,39,40.714285714285715,44.5,70
+CASE,2,30.75,47.5,44.5,56,76
+control,18,28.5,56,50.608695652173914,65,80
+Control,27,49,51,64.8,56,141
+CONTROL,24,30,38,36.4,41,49
