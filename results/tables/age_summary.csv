@@ -1,7 +1,7 @@
-"","statistic","value"
-"1","Min.",2
-"2","1st Qu.",28.5
-"3","Median",45
-"4","Mean",46.9117647058824
-"5","3rd Qu.",63
-"6","Max.",141
+statistic,value
+Min.,2
+1st Qu.,28.5
+Median,45
+Mean,46.911764705882355
+3rd Qu.,63
+Max.,141
